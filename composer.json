@@ -1,5 +1,5 @@
 {
-    "name": "digital-creative/column-toggler",
+    "name": "web-svb/column-toggler",
     "description": "A Laravel Nova package that allows you to hide/show columns in the index view.",
     "keywords": [
         "laravel",
